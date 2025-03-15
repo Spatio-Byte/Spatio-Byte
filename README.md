@@ -11,4 +11,4 @@
 
 fan de watch dogs et passionné de hacking éthique
 
-![Laptop Animation](src/)
+![Laptop Animation](assets/da6cg74-e228da46-b728-4101-a742-a7c9e71af73c.gif)
