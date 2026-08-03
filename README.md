@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://github.com/Spatio-ByteE">
+<a href="https://github.com/Spatio-Byte">
 <img src="https://img.shields.io/github/followers/Spatio-Byte?style=for-the-badge&logo=github&label=Followers&color=2563EB&labelColor=0F172A"/>
 </a>
 
