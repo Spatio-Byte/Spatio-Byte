@@ -64,11 +64,6 @@ public:
 - Secure Protocol Design
 - Zero Trust Architecture
 
----
-
-##  My Philosophy
-
-> **"Systems requiring trust are not well designed"**
 
 ---
 
